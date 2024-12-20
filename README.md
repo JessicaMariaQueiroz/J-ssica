@@ -20,23 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Meu primeiro Avatar
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Relizei um avatar, que se apresenta, a partir de uma foto. A foto foi criada por uma inteligência artificial.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Heygen e Seaart
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criei um prompt com a característica da modelo que desejei, no Seaart. Coloquei minha face, e em seguida fiz o dowload dela. Depois, entrei na plataform heygen, fiz o uploud da foto para a crição do meu avatar. Em seguida, pronúnciei um aúdio com o conteudo que desejo falar, e pedi para a plataforma Heygen gerar. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Adorei essa experiência. Estou me identificando nesta área para fechar alguns negócios e trabalhar com ela. Tanto a D-ID quanto a Heygen, serão plataformas que estarão no meu custo para aprimorar meus conhecimento nesta área. 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Entendo a revolução desta tecnologia, e estou disposta  aprimorar cada dia mais meus conhecimento com ela nesta área. Sou profissional de educação física, e quero uma nova carreir que me possibilite trabalhar somente em casa. Acredito que a inteligência artificial pode ser meu aliado.```
 
 ### Exemplos e Insigths
 
